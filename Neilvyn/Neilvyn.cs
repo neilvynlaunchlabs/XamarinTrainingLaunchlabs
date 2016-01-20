@@ -15,7 +15,7 @@ namespace Neilvyn
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!"
+							Text = "Welcome to Xamarin Forms"
 						}
 					}
 				}
